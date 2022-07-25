@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: telecom
+  datasource:
+    url: jdbc:mysql://192.168.0.252/telecom?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&netTimeoutForStreamingResults=0&serverTimezone=Australia/Melbourne
+    name: codingTest
+    password: codingTest1@3
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: false
+server:
+  port: 8080

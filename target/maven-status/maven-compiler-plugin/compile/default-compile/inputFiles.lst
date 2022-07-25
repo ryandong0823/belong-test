@@ -1,0 +1,16 @@
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/repository/ICustomerRepository.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/utils/Constant.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/service/impl/SecurityCheckServiceImpl.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/service/impl/PhoneNumberServiceImpl.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/entity/PhoneNumbers.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/service/IPhoneNumberService.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/controller/PhoneNumberManagementController.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/filter/AuthenticationFilter.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/biz/PageInfo.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/entity/Customer.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/controller/CustomerManagementController.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/biz/ResultInfo.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/service/ISecurityCheckService.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/repository/IPhoneNumberRepository.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/biz/CustomerInfo.java
+/Users/ryandong/java-workspaces/belong-test/src/main/java/com.belong.telecom/TelecomApplication.java
